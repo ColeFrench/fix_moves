@@ -4,7 +4,7 @@ Currently, Pokémon that returned to Gen 8 in [the Isle of Armor](https://bulbap
 
 ## Installation
 
-```python
+```shell
 pip install -r requirements.txt
 ```
 
