@@ -3,6 +3,16 @@
 Currently, Pokémon that returned to Gen 8 in [the Isle of Armor](https://bulbapedia.bulbagarden.net/wiki/The_Isle_of_Armor#Returning_Pok%C3%A9mon) have broken movesets in Pixelmon. They cannot learn any move by TM, and the moves they do learn (by other means such as leveling up) are not up to date. This script scrapes Bulbapedia to resolve these issues.
 
 ## Installation
+<details>
+    <summary>Prerequisites</summary>
+
+    You need `git`, a recent version of Python 3, and `pip` installed. Then clone this repo and enter the directory with
+
+    ```shell
+    git clone https://github.com/ColeFrench/fix_moves.git
+    cd fix_moves
+    ```
+</details>
 
 ```shell
 pip install -r requirements.txt
