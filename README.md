@@ -6,12 +6,12 @@ Currently, Pokémon that returned to Gen 8 in [the Isle of Armor](https://bulbap
 <details>
     <summary>Prerequisites</summary>
 
-    You need `git`, a recent version of Python 3, and `pip` installed. Then clone this repo and enter the directory with
+You need `git`, a recent version of Python 3, and `pip` installed. Then clone this repo and enter the directory with
 
-    ```shell
-    git clone https://github.com/ColeFrench/fix_moves.git
-    cd fix_moves
-    ```
+```shell
+git clone https://github.com/ColeFrench/fix_moves.git
+cd fix_moves
+```
 </details>
 
 ```shell
